@@ -1,3 +1,3 @@
 # myfirstrepo
  
-**Some text*** 
+**Some text**
