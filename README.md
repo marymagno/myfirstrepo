@@ -1,6 +1,4 @@
 # myfirstrepo
- 
-**Some text**
 
-<h1>Hello, Canvas! 🌍</h1>
+<h1>Hello, my name is Mary Magno! 🌍</h1>
 
